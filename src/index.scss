@@ -1,0 +1,7 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+#app {
+  height: calc(100vh - 56px);
+  display: flex;
+  justify-content: center;
+}
